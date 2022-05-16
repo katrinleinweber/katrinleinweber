@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'll keep this brief. See the left sidebar,
+[some stats](https://github.com/jstrieb/github-stats) here,
+and activity details below 🖖
+
+![](https://raw.githubusercontent.com/katrinleinweber/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/katrinleinweber/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/katrinleinweber/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/katrinleinweber/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 <!--
 **katrinleinweber/katrinleinweber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
